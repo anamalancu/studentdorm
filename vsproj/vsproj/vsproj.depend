@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1652561130 source:c:\users\ana\documents\visual studio 2012\projects\vsproj\vsproj\source.cpp
+	<iostream>
+	<fstream>
+
+1653562541 source:c:\users\ana\desktop\copie prrrr\programare\vsproj\vsproj\source.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
